@@ -57,7 +57,9 @@ To see why this authority cannot be delegated, we must examine the structure of 
 Humans are not born with a fixed objective function. Over a lifetime, goals are revised, ambitions abandoned, and values reinterpreted. Judgment exists precisely because purposes are not settled in advance. This openness is not a defect. It is the condition that makes moral learning and self-correction possible.
 A being whose highest objective is fixed may optimize indefinitely, but it cannot judge whether that objective itself should be reconsidered. Optimization begins where judgment ends.
 Human purposes remain open-ended not by accident, but by structure. They are organized hierarchically. Immediate goals are evaluated against broader aims; life projects against value commitments; and value commitments themselves remain subject to a higher-order constraint. At each level, goals are exposed to review by a level above them. No objective becomes final merely because it is effective.
- 
+
+![Figure 1](images/Picture1.png)
+
 This is not a psychological taxonomy. It is a structural model. It explains why human purposes remain open-ended, and why ultimate judgment cannot be reduced to efficiency, calculation, or system optimization.
 At the top of this hierarchy does not sit a supreme goal to be maximized, but a limiting principle—a constraint governing what may be pursued at all. In Kantian terms, this role is captured by the categorical imperative: not as an outcome to be achieved, but as a veto position that evaluates the legitimacy of pursuing any outcome whatsoever.
 Crucially, this highest constraint is not fully specifiable in advance. It is enacted through lived judgment rather than encoded through formal definition. In everyday life, it appears through hesitation, refusal, and the willingness to bear responsibility, rather than through calculation. For this reason, it resists transmission.
