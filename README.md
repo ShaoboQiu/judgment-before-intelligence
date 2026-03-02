@@ -1,4 +1,5 @@
-# Judgment Before Intelligence
+# Judgment Before Intelligence “应否”先于“怎样”
+
 
 This repository does not propose a new AI architecture.
 
